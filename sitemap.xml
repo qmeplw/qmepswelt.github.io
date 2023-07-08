@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/post/linux/mein_erster_post/</loc>
+    <loc>https://takineci.de/post/linux/mein_erster_post/</loc>
     <lastmod>2023-07-08T16:50:13+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://takineci.de/post/</loc>
     <lastmod>2023-07-08T16:50:13+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://takineci.de/</loc>
     <lastmod>2023-07-08T16:50:13+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://takineci.de/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://takineci.de/tags/</loc>
   </url>
 </urlset>

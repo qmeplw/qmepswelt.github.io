@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>qmeps welt</title>
-    <link>http://example.org/</link>
+    <link>https://takineci.de/</link>
     <description>Recent content on qmeps welt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de_DE</language>
-    <lastBuildDate>Sat, 08 Jul 2023 16:50:13 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jul 2023 16:50:13 +0200</lastBuildDate><atom:link href="https://takineci.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mein Erster Post</title>
-      <link>http://example.org/post/linux/mein_erster_post/</link>
+      <link>https://takineci.de/post/linux/mein_erster_post/</link>
       <pubDate>Sat, 08 Jul 2023 16:50:13 +0200</pubDate>
       
-      <guid>http://example.org/post/linux/mein_erster_post/</guid>
+      <guid>https://takineci.de/post/linux/mein_erster_post/</guid>
       <description></description>
     </item>
     
